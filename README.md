@@ -1,4 +1,5 @@
 # Jira Task Management with Excel Formatter
+![image](https://github.com/user-attachments/assets/c5fb8b48-4b2f-4ed0-ae3d-8924d06d0df8)
 
 This Python script is designed to interact with Jira to fetch and update issues for the **Security-GRC** project, export the issues to an Excel file, and format the Excel file with priority-based coloring and other enhancements. Additionally, it can update Jira issues directly from an Excel file.
 
