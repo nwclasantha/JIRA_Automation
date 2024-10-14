@@ -52,9 +52,9 @@ class JiraExcelFormatter:
             # Convert the list of field IDs into a comma-separated string
             fields = ','.join(field_ids)
 
-            # Define the query for the Security-GRC project, including the custom fields
+            # Define the query for the DevOps project, including the custom fields
             jql_query = {
-                'jql': 'project="Security-GRC"',  # Modify project key as needed
+                'jql': 'project="DevOps"',  # Modify project key as needed
                 'fields': field_ids
             }
 
